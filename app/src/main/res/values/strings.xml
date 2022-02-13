@@ -11,6 +11,7 @@
     <string name="result">Result</string>
 
     <string name="two_ops">Please enter two operands</string>
-
+    <string name="one_ops">Please enter value in operand 1</string>
+    <string name="div_zero">Cannot divide by 0</string>
 
 </resources>
