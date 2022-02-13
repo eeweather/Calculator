@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+    <string name="percent">percent</string>
+    <string name="square_root">square root</string>
+    <string name="op1">Op1</string>
+    <string name="op2">Op2</string>
+    <string name="result">Result</string>
+</resources>
