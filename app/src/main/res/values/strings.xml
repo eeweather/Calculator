@@ -9,4 +9,8 @@
     <string name="op1">Op1</string>
     <string name="op2">Op2</string>
     <string name="result">Result</string>
+
+    <string name="two_ops">Please enter two operands</string>
+
+
 </resources>
